@@ -1,0 +1,11 @@
+# Day 05 - Login Screen UI
+
+## What I Learned
+- Typography
+- Input fields
+- Buttons
+- Spacing and alignment
+- Basic mobile UI design
+
+## About
+This is my Day 05 Figma practice. I recreated a mobile login screen to improve my UI/UX design skills.
